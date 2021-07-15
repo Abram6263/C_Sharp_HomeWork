@@ -1,0 +1,13 @@
+D:\Code_Projects\C_Sharp_HomeWork\task_1\Nails\Nails\bin\Debug\netcoreapp3.1\Nails.exe
+D:\Code_Projects\C_Sharp_HomeWork\task_1\Nails\Nails\bin\Debug\netcoreapp3.1\Nails.deps.json
+D:\Code_Projects\C_Sharp_HomeWork\task_1\Nails\Nails\bin\Debug\netcoreapp3.1\Nails.runtimeconfig.json
+D:\Code_Projects\C_Sharp_HomeWork\task_1\Nails\Nails\bin\Debug\netcoreapp3.1\Nails.runtimeconfig.dev.json
+D:\Code_Projects\C_Sharp_HomeWork\task_1\Nails\Nails\bin\Debug\netcoreapp3.1\Nails.dll
+D:\Code_Projects\C_Sharp_HomeWork\task_1\Nails\Nails\bin\Debug\netcoreapp3.1\Nails.pdb
+D:\Code_Projects\C_Sharp_HomeWork\task_1\Nails\Nails\obj\Debug\netcoreapp3.1\Nails.csprojAssemblyReference.cache
+D:\Code_Projects\C_Sharp_HomeWork\task_1\Nails\Nails\obj\Debug\netcoreapp3.1\Nails.AssemblyInfoInputs.cache
+D:\Code_Projects\C_Sharp_HomeWork\task_1\Nails\Nails\obj\Debug\netcoreapp3.1\Nails.AssemblyInfo.cs
+D:\Code_Projects\C_Sharp_HomeWork\task_1\Nails\Nails\obj\Debug\netcoreapp3.1\Nails.csproj.CoreCompileInputs.cache
+D:\Code_Projects\C_Sharp_HomeWork\task_1\Nails\Nails\obj\Debug\netcoreapp3.1\Nails.dll
+D:\Code_Projects\C_Sharp_HomeWork\task_1\Nails\Nails\obj\Debug\netcoreapp3.1\Nails.pdb
+D:\Code_Projects\C_Sharp_HomeWork\task_1\Nails\Nails\obj\Debug\netcoreapp3.1\Nails.genruntimeconfig.cache
