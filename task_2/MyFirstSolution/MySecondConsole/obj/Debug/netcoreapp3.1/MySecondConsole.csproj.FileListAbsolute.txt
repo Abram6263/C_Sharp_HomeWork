@@ -1,0 +1,13 @@
+D:\Code_Projects\C_Sharp_HomeWork\task_2\MyFirstSolution\MySecondConsole\bin\Debug\netcoreapp3.1\MySecondConsole.exe
+D:\Code_Projects\C_Sharp_HomeWork\task_2\MyFirstSolution\MySecondConsole\bin\Debug\netcoreapp3.1\MySecondConsole.deps.json
+D:\Code_Projects\C_Sharp_HomeWork\task_2\MyFirstSolution\MySecondConsole\bin\Debug\netcoreapp3.1\MySecondConsole.runtimeconfig.json
+D:\Code_Projects\C_Sharp_HomeWork\task_2\MyFirstSolution\MySecondConsole\bin\Debug\netcoreapp3.1\MySecondConsole.runtimeconfig.dev.json
+D:\Code_Projects\C_Sharp_HomeWork\task_2\MyFirstSolution\MySecondConsole\bin\Debug\netcoreapp3.1\MySecondConsole.dll
+D:\Code_Projects\C_Sharp_HomeWork\task_2\MyFirstSolution\MySecondConsole\bin\Debug\netcoreapp3.1\MySecondConsole.pdb
+D:\Code_Projects\C_Sharp_HomeWork\task_2\MyFirstSolution\MySecondConsole\obj\Debug\netcoreapp3.1\MySecondConsole.csprojAssemblyReference.cache
+D:\Code_Projects\C_Sharp_HomeWork\task_2\MyFirstSolution\MySecondConsole\obj\Debug\netcoreapp3.1\MySecondConsole.AssemblyInfoInputs.cache
+D:\Code_Projects\C_Sharp_HomeWork\task_2\MyFirstSolution\MySecondConsole\obj\Debug\netcoreapp3.1\MySecondConsole.AssemblyInfo.cs
+D:\Code_Projects\C_Sharp_HomeWork\task_2\MyFirstSolution\MySecondConsole\obj\Debug\netcoreapp3.1\MySecondConsole.csproj.CoreCompileInputs.cache
+D:\Code_Projects\C_Sharp_HomeWork\task_2\MyFirstSolution\MySecondConsole\obj\Debug\netcoreapp3.1\MySecondConsole.dll
+D:\Code_Projects\C_Sharp_HomeWork\task_2\MyFirstSolution\MySecondConsole\obj\Debug\netcoreapp3.1\MySecondConsole.pdb
+D:\Code_Projects\C_Sharp_HomeWork\task_2\MyFirstSolution\MySecondConsole\obj\Debug\netcoreapp3.1\MySecondConsole.genruntimeconfig.cache

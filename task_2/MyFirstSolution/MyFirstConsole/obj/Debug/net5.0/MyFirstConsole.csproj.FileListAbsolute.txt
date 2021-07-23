@@ -1,0 +1,16 @@
+D:\Code_Projects\C_Sharp_HomeWork\task_2\MyFirstSolution\MyFirstConsole\bin\Debug\net5.0\MyFirstConsole.exe
+D:\Code_Projects\C_Sharp_HomeWork\task_2\MyFirstSolution\MyFirstConsole\bin\Debug\net5.0\MyFirstConsole.deps.json
+D:\Code_Projects\C_Sharp_HomeWork\task_2\MyFirstSolution\MyFirstConsole\bin\Debug\net5.0\MyFirstConsole.runtimeconfig.json
+D:\Code_Projects\C_Sharp_HomeWork\task_2\MyFirstSolution\MyFirstConsole\bin\Debug\net5.0\MyFirstConsole.runtimeconfig.dev.json
+D:\Code_Projects\C_Sharp_HomeWork\task_2\MyFirstSolution\MyFirstConsole\bin\Debug\net5.0\MyFirstConsole.dll
+D:\Code_Projects\C_Sharp_HomeWork\task_2\MyFirstSolution\MyFirstConsole\bin\Debug\net5.0\ref\MyFirstConsole.dll
+D:\Code_Projects\C_Sharp_HomeWork\task_2\MyFirstSolution\MyFirstConsole\bin\Debug\net5.0\MyFirstConsole.pdb
+D:\Code_Projects\C_Sharp_HomeWork\task_2\MyFirstSolution\MyFirstConsole\obj\Debug\net5.0\MyFirstConsole.csprojAssemblyReference.cache
+D:\Code_Projects\C_Sharp_HomeWork\task_2\MyFirstSolution\MyFirstConsole\obj\Debug\net5.0\MyFirstConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code_Projects\C_Sharp_HomeWork\task_2\MyFirstSolution\MyFirstConsole\obj\Debug\net5.0\MyFirstConsole.AssemblyInfoInputs.cache
+D:\Code_Projects\C_Sharp_HomeWork\task_2\MyFirstSolution\MyFirstConsole\obj\Debug\net5.0\MyFirstConsole.AssemblyInfo.cs
+D:\Code_Projects\C_Sharp_HomeWork\task_2\MyFirstSolution\MyFirstConsole\obj\Debug\net5.0\MyFirstConsole.csproj.CoreCompileInputs.cache
+D:\Code_Projects\C_Sharp_HomeWork\task_2\MyFirstSolution\MyFirstConsole\obj\Debug\net5.0\MyFirstConsole.dll
+D:\Code_Projects\C_Sharp_HomeWork\task_2\MyFirstSolution\MyFirstConsole\obj\Debug\net5.0\ref\MyFirstConsole.dll
+D:\Code_Projects\C_Sharp_HomeWork\task_2\MyFirstSolution\MyFirstConsole\obj\Debug\net5.0\MyFirstConsole.pdb
+D:\Code_Projects\C_Sharp_HomeWork\task_2\MyFirstSolution\MyFirstConsole\obj\Debug\net5.0\MyFirstConsole.genruntimeconfig.cache
