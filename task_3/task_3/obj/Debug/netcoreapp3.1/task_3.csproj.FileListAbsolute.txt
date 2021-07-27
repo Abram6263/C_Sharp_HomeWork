@@ -1,0 +1,13 @@
+D:\Code_Projects\C_Sharp_HomeWork\task_3\task_3\bin\Debug\netcoreapp3.1\task_3.exe
+D:\Code_Projects\C_Sharp_HomeWork\task_3\task_3\bin\Debug\netcoreapp3.1\task_3.deps.json
+D:\Code_Projects\C_Sharp_HomeWork\task_3\task_3\bin\Debug\netcoreapp3.1\task_3.runtimeconfig.json
+D:\Code_Projects\C_Sharp_HomeWork\task_3\task_3\bin\Debug\netcoreapp3.1\task_3.runtimeconfig.dev.json
+D:\Code_Projects\C_Sharp_HomeWork\task_3\task_3\bin\Debug\netcoreapp3.1\task_3.dll
+D:\Code_Projects\C_Sharp_HomeWork\task_3\task_3\bin\Debug\netcoreapp3.1\task_3.pdb
+D:\Code_Projects\C_Sharp_HomeWork\task_3\task_3\obj\Debug\netcoreapp3.1\task_3.csprojAssemblyReference.cache
+D:\Code_Projects\C_Sharp_HomeWork\task_3\task_3\obj\Debug\netcoreapp3.1\task_3.AssemblyInfoInputs.cache
+D:\Code_Projects\C_Sharp_HomeWork\task_3\task_3\obj\Debug\netcoreapp3.1\task_3.AssemblyInfo.cs
+D:\Code_Projects\C_Sharp_HomeWork\task_3\task_3\obj\Debug\netcoreapp3.1\task_3.csproj.CoreCompileInputs.cache
+D:\Code_Projects\C_Sharp_HomeWork\task_3\task_3\obj\Debug\netcoreapp3.1\task_3.dll
+D:\Code_Projects\C_Sharp_HomeWork\task_3\task_3\obj\Debug\netcoreapp3.1\task_3.pdb
+D:\Code_Projects\C_Sharp_HomeWork\task_3\task_3\obj\Debug\netcoreapp3.1\task_3.genruntimeconfig.cache
