@@ -1,0 +1,13 @@
+D:\Code_Projects\C_Sharp_HomeWork\task_4\zadanie_1\bin\Debug\netcoreapp3.1\zadanie_1.exe
+D:\Code_Projects\C_Sharp_HomeWork\task_4\zadanie_1\bin\Debug\netcoreapp3.1\zadanie_1.deps.json
+D:\Code_Projects\C_Sharp_HomeWork\task_4\zadanie_1\bin\Debug\netcoreapp3.1\zadanie_1.runtimeconfig.json
+D:\Code_Projects\C_Sharp_HomeWork\task_4\zadanie_1\bin\Debug\netcoreapp3.1\zadanie_1.runtimeconfig.dev.json
+D:\Code_Projects\C_Sharp_HomeWork\task_4\zadanie_1\bin\Debug\netcoreapp3.1\zadanie_1.dll
+D:\Code_Projects\C_Sharp_HomeWork\task_4\zadanie_1\bin\Debug\netcoreapp3.1\zadanie_1.pdb
+D:\Code_Projects\C_Sharp_HomeWork\task_4\zadanie_1\obj\Debug\netcoreapp3.1\zadanie_1.AssemblyInfoInputs.cache
+D:\Code_Projects\C_Sharp_HomeWork\task_4\zadanie_1\obj\Debug\netcoreapp3.1\zadanie_1.AssemblyInfo.cs
+D:\Code_Projects\C_Sharp_HomeWork\task_4\zadanie_1\obj\Debug\netcoreapp3.1\zadanie_1.csproj.CoreCompileInputs.cache
+D:\Code_Projects\C_Sharp_HomeWork\task_4\zadanie_1\obj\Debug\netcoreapp3.1\zadanie_1.dll
+D:\Code_Projects\C_Sharp_HomeWork\task_4\zadanie_1\obj\Debug\netcoreapp3.1\zadanie_1.pdb
+D:\Code_Projects\C_Sharp_HomeWork\task_4\zadanie_1\obj\Debug\netcoreapp3.1\zadanie_1.genruntimeconfig.cache
+D:\Code_Projects\C_Sharp_HomeWork\task_4\zadanie_1\obj\Debug\netcoreapp3.1\zadanie_1.csprojAssemblyReference.cache
