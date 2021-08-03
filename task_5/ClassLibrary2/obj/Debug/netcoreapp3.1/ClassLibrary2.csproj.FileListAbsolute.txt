@@ -1,0 +1,9 @@
+D:\Code_Projects\C_Sharp_HomeWork\task_5\ClassLibrary2\bin\Debug\netcoreapp3.1\ClassLibrary2.deps.json
+D:\Code_Projects\C_Sharp_HomeWork\task_5\ClassLibrary2\bin\Debug\netcoreapp3.1\ClassLibrary2.dll
+D:\Code_Projects\C_Sharp_HomeWork\task_5\ClassLibrary2\bin\Debug\netcoreapp3.1\ClassLibrary2.pdb
+D:\Code_Projects\C_Sharp_HomeWork\task_5\ClassLibrary2\obj\Debug\netcoreapp3.1\ClassLibrary2.csprojAssemblyReference.cache
+D:\Code_Projects\C_Sharp_HomeWork\task_5\ClassLibrary2\obj\Debug\netcoreapp3.1\ClassLibrary2.AssemblyInfoInputs.cache
+D:\Code_Projects\C_Sharp_HomeWork\task_5\ClassLibrary2\obj\Debug\netcoreapp3.1\ClassLibrary2.AssemblyInfo.cs
+D:\Code_Projects\C_Sharp_HomeWork\task_5\ClassLibrary2\obj\Debug\netcoreapp3.1\ClassLibrary2.csproj.CoreCompileInputs.cache
+D:\Code_Projects\C_Sharp_HomeWork\task_5\ClassLibrary2\obj\Debug\netcoreapp3.1\ClassLibrary2.dll
+D:\Code_Projects\C_Sharp_HomeWork\task_5\ClassLibrary2\obj\Debug\netcoreapp3.1\ClassLibrary2.pdb
