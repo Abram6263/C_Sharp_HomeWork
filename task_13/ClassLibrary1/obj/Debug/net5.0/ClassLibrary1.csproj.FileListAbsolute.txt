@@ -1,0 +1,12 @@
+D:\Code_Projects\C_Sharp_HomeWork\task_13\ClassLibrary1\bin\Debug\net5.0\ClassLibrary1.deps.json
+D:\Code_Projects\C_Sharp_HomeWork\task_13\ClassLibrary1\bin\Debug\net5.0\ClassLibrary1.dll
+D:\Code_Projects\C_Sharp_HomeWork\task_13\ClassLibrary1\bin\Debug\net5.0\ref\ClassLibrary1.dll
+D:\Code_Projects\C_Sharp_HomeWork\task_13\ClassLibrary1\bin\Debug\net5.0\ClassLibrary1.pdb
+D:\Code_Projects\C_Sharp_HomeWork\task_13\ClassLibrary1\obj\Debug\net5.0\ClassLibrary1.csproj.AssemblyReference.cache
+D:\Code_Projects\C_Sharp_HomeWork\task_13\ClassLibrary1\obj\Debug\net5.0\ClassLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code_Projects\C_Sharp_HomeWork\task_13\ClassLibrary1\obj\Debug\net5.0\ClassLibrary1.AssemblyInfoInputs.cache
+D:\Code_Projects\C_Sharp_HomeWork\task_13\ClassLibrary1\obj\Debug\net5.0\ClassLibrary1.AssemblyInfo.cs
+D:\Code_Projects\C_Sharp_HomeWork\task_13\ClassLibrary1\obj\Debug\net5.0\ClassLibrary1.csproj.CoreCompileInputs.cache
+D:\Code_Projects\C_Sharp_HomeWork\task_13\ClassLibrary1\obj\Debug\net5.0\ClassLibrary1.dll
+D:\Code_Projects\C_Sharp_HomeWork\task_13\ClassLibrary1\obj\Debug\net5.0\ref\ClassLibrary1.dll
+D:\Code_Projects\C_Sharp_HomeWork\task_13\ClassLibrary1\obj\Debug\net5.0\ClassLibrary1.pdb
