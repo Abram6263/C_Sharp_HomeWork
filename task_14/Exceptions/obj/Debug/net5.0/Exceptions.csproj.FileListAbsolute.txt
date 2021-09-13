@@ -1,0 +1,12 @@
+D:\Code_Projects\C_Sharp_HomeWork\task_14\Exceptions\bin\Debug\net5.0\Exceptions.deps.json
+D:\Code_Projects\C_Sharp_HomeWork\task_14\Exceptions\bin\Debug\net5.0\Exceptions.dll
+D:\Code_Projects\C_Sharp_HomeWork\task_14\Exceptions\bin\Debug\net5.0\ref\Exceptions.dll
+D:\Code_Projects\C_Sharp_HomeWork\task_14\Exceptions\bin\Debug\net5.0\Exceptions.pdb
+D:\Code_Projects\C_Sharp_HomeWork\task_14\Exceptions\obj\Debug\net5.0\Exceptions.csproj.AssemblyReference.cache
+D:\Code_Projects\C_Sharp_HomeWork\task_14\Exceptions\obj\Debug\net5.0\Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code_Projects\C_Sharp_HomeWork\task_14\Exceptions\obj\Debug\net5.0\Exceptions.AssemblyInfoInputs.cache
+D:\Code_Projects\C_Sharp_HomeWork\task_14\Exceptions\obj\Debug\net5.0\Exceptions.AssemblyInfo.cs
+D:\Code_Projects\C_Sharp_HomeWork\task_14\Exceptions\obj\Debug\net5.0\Exceptions.csproj.CoreCompileInputs.cache
+D:\Code_Projects\C_Sharp_HomeWork\task_14\Exceptions\obj\Debug\net5.0\Exceptions.dll
+D:\Code_Projects\C_Sharp_HomeWork\task_14\Exceptions\obj\Debug\net5.0\ref\Exceptions.dll
+D:\Code_Projects\C_Sharp_HomeWork\task_14\Exceptions\obj\Debug\net5.0\Exceptions.pdb
