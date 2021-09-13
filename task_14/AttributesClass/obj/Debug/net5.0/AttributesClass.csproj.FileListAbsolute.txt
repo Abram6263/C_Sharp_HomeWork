@@ -1,0 +1,12 @@
+D:\Code_Projects\C_Sharp_HomeWork\task_14\AttributesClass\bin\Debug\net5.0\AttributesClass.deps.json
+D:\Code_Projects\C_Sharp_HomeWork\task_14\AttributesClass\bin\Debug\net5.0\AttributesClass.dll
+D:\Code_Projects\C_Sharp_HomeWork\task_14\AttributesClass\bin\Debug\net5.0\ref\AttributesClass.dll
+D:\Code_Projects\C_Sharp_HomeWork\task_14\AttributesClass\bin\Debug\net5.0\AttributesClass.pdb
+D:\Code_Projects\C_Sharp_HomeWork\task_14\AttributesClass\obj\Debug\net5.0\AttributesClass.csproj.AssemblyReference.cache
+D:\Code_Projects\C_Sharp_HomeWork\task_14\AttributesClass\obj\Debug\net5.0\AttributesClass.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code_Projects\C_Sharp_HomeWork\task_14\AttributesClass\obj\Debug\net5.0\AttributesClass.AssemblyInfoInputs.cache
+D:\Code_Projects\C_Sharp_HomeWork\task_14\AttributesClass\obj\Debug\net5.0\AttributesClass.AssemblyInfo.cs
+D:\Code_Projects\C_Sharp_HomeWork\task_14\AttributesClass\obj\Debug\net5.0\AttributesClass.csproj.CoreCompileInputs.cache
+D:\Code_Projects\C_Sharp_HomeWork\task_14\AttributesClass\obj\Debug\net5.0\AttributesClass.dll
+D:\Code_Projects\C_Sharp_HomeWork\task_14\AttributesClass\obj\Debug\net5.0\ref\AttributesClass.dll
+D:\Code_Projects\C_Sharp_HomeWork\task_14\AttributesClass\obj\Debug\net5.0\AttributesClass.pdb
