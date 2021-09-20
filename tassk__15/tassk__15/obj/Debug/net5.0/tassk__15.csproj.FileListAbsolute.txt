@@ -1,0 +1,16 @@
+D:\Code_Projects\C_Sharp_HomeWork\tassk__15\tassk__15\bin\Debug\net5.0\tassk__15.exe
+D:\Code_Projects\C_Sharp_HomeWork\tassk__15\tassk__15\bin\Debug\net5.0\tassk__15.deps.json
+D:\Code_Projects\C_Sharp_HomeWork\tassk__15\tassk__15\bin\Debug\net5.0\tassk__15.runtimeconfig.json
+D:\Code_Projects\C_Sharp_HomeWork\tassk__15\tassk__15\bin\Debug\net5.0\tassk__15.runtimeconfig.dev.json
+D:\Code_Projects\C_Sharp_HomeWork\tassk__15\tassk__15\bin\Debug\net5.0\tassk__15.dll
+D:\Code_Projects\C_Sharp_HomeWork\tassk__15\tassk__15\bin\Debug\net5.0\ref\tassk__15.dll
+D:\Code_Projects\C_Sharp_HomeWork\tassk__15\tassk__15\bin\Debug\net5.0\tassk__15.pdb
+D:\Code_Projects\C_Sharp_HomeWork\tassk__15\tassk__15\obj\Debug\net5.0\tassk__15.csproj.AssemblyReference.cache
+D:\Code_Projects\C_Sharp_HomeWork\tassk__15\tassk__15\obj\Debug\net5.0\tassk__15.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code_Projects\C_Sharp_HomeWork\tassk__15\tassk__15\obj\Debug\net5.0\tassk__15.AssemblyInfoInputs.cache
+D:\Code_Projects\C_Sharp_HomeWork\tassk__15\tassk__15\obj\Debug\net5.0\tassk__15.AssemblyInfo.cs
+D:\Code_Projects\C_Sharp_HomeWork\tassk__15\tassk__15\obj\Debug\net5.0\tassk__15.csproj.CoreCompileInputs.cache
+D:\Code_Projects\C_Sharp_HomeWork\tassk__15\tassk__15\obj\Debug\net5.0\tassk__15.dll
+D:\Code_Projects\C_Sharp_HomeWork\tassk__15\tassk__15\obj\Debug\net5.0\ref\tassk__15.dll
+D:\Code_Projects\C_Sharp_HomeWork\tassk__15\tassk__15\obj\Debug\net5.0\tassk__15.pdb
+D:\Code_Projects\C_Sharp_HomeWork\tassk__15\tassk__15\obj\Debug\net5.0\tassk__15.genruntimeconfig.cache
