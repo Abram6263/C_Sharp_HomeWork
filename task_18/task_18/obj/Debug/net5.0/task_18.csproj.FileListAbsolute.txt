@@ -1,0 +1,16 @@
+D:\Code_Projects\C_Sharp_HomeWork\task_18\task_18\bin\Debug\net5.0\task_18.exe
+D:\Code_Projects\C_Sharp_HomeWork\task_18\task_18\bin\Debug\net5.0\task_18.deps.json
+D:\Code_Projects\C_Sharp_HomeWork\task_18\task_18\bin\Debug\net5.0\task_18.runtimeconfig.json
+D:\Code_Projects\C_Sharp_HomeWork\task_18\task_18\bin\Debug\net5.0\task_18.runtimeconfig.dev.json
+D:\Code_Projects\C_Sharp_HomeWork\task_18\task_18\bin\Debug\net5.0\task_18.dll
+D:\Code_Projects\C_Sharp_HomeWork\task_18\task_18\bin\Debug\net5.0\ref\task_18.dll
+D:\Code_Projects\C_Sharp_HomeWork\task_18\task_18\bin\Debug\net5.0\task_18.pdb
+D:\Code_Projects\C_Sharp_HomeWork\task_18\task_18\obj\Debug\net5.0\task_18.csproj.AssemblyReference.cache
+D:\Code_Projects\C_Sharp_HomeWork\task_18\task_18\obj\Debug\net5.0\task_18.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code_Projects\C_Sharp_HomeWork\task_18\task_18\obj\Debug\net5.0\task_18.AssemblyInfoInputs.cache
+D:\Code_Projects\C_Sharp_HomeWork\task_18\task_18\obj\Debug\net5.0\task_18.AssemblyInfo.cs
+D:\Code_Projects\C_Sharp_HomeWork\task_18\task_18\obj\Debug\net5.0\task_18.csproj.CoreCompileInputs.cache
+D:\Code_Projects\C_Sharp_HomeWork\task_18\task_18\obj\Debug\net5.0\task_18.dll
+D:\Code_Projects\C_Sharp_HomeWork\task_18\task_18\obj\Debug\net5.0\ref\task_18.dll
+D:\Code_Projects\C_Sharp_HomeWork\task_18\task_18\obj\Debug\net5.0\task_18.pdb
+D:\Code_Projects\C_Sharp_HomeWork\task_18\task_18\obj\Debug\net5.0\task_18.genruntimeconfig.cache
